@@ -1,4 +1,4 @@
-# GitLab–Google Sheets Issue Tracker
+## GitLab–Google Sheets Issue Tracker
 
 ## 1. 개요
 - GitLab 프로젝트 이슈 현황을 Google Sheets와 자동 동기화하는 Python 스크립트입니다.  
